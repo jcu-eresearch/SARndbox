@@ -1,12 +1,24 @@
 # Todo
 
-* Try new colour file from GitHub
+* Check projector keystone settings (set to zero?)
+* Document where and which files to backup (etc/SARndbox*/*)
+
+  * Backup settings!
+
+* Look through the popup menu options in SARndbox
+
+* Colour coding:
+  * Reverse engineering the C++ code
+  * https://github.com/KeckCAVES/SARndbox/
+  * Try/create new colour files (eg test from GitHub, create sea/island
+    colours [dark/rainforest green, brown/yellow/white sand, light/dark blue
+    to purple water])
+
 * Raise/lower the BoxLayout.txt height to change colour settings
 
   * Can use the -slf option to set a specific filename (eg
     higher.txt/lower.txt)
 
-* Check projector keystone settings (set to zero?)
 * Try water modelling with ``-wts 200 150`` for initial testing or
 unless the PC running the Augmented Reality Sandbox has a top-of-the
 line CPU
@@ -17,11 +29,16 @@ line CPU
   * -evr evaporation rate
   * -rws render water surface as a geometric surface
 
-* Look through the popup menu options in SARndbox
-* Document where and which files to backup (etc/SARndbox*/*)
-* IT T-shirt sizes and see Lachlan in mentor room
-* Take sizes for eResearch shirts
-* Get contact details about JCU open day
+* Set up new computer (transfer hard drive from one to the other)
+
+* Shirts and Open Day
+
+  * IT T-shirt sizes and see Lachlan in mentor room
+  * Take sizes for eResearch shirts
+  * Get contact details about JCU open day
+
+* Prep the final presentation
+* Vaccuum and tidy
 
 ## To read
 
@@ -32,6 +49,7 @@ line CPU
 ## Discussions
 
 * GitHub and code hosting (https://github.com/jcu-eresearch/SARndbox)
+* JCU Open Day
 * iNQ launch event
 * Startup Weekend 2016
 
@@ -39,9 +57,9 @@ line CPU
 
 1. Finish future work issues, problems, cleanup
 
+
   * Kinect v2 coming soon! http://lakeviz.org/forums/topic/what-will-change-in-2-0/
 
 2. Document instructions for future builders: list of tools!
 2. Prep talk for 2pm, speaking roles
-3. Vaccuum and tidy
 4. Final presentation!
