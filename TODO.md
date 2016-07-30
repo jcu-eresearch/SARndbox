@@ -42,9 +42,13 @@ line CPU
 
 ## To read
 
+* https://system76.com/weekend-project/arsandbox
 * http://lakeviz.org/forums/topic/common-issues-read-this-first/
 * http://lakeviz.org/forums/topic/sandbox-posters/
+* http://geoinfo.nmt.edu/publications/periodicals/litegeology/39/lg_v39.pdf - geology tasks
 * https://brmlab.cz/project/ar_sandbox
+* http://isandbox.co.uk/
+* http://en.sandystation.cz
 
 ## Discussions
 
@@ -56,7 +60,6 @@ line CPU
 ## Project management
 
 1. Finish future work issues, problems, cleanup
-
 
   * Kinect v2 coming soon! http://lakeviz.org/forums/topic/what-will-change-in-2-0/
 
