@@ -94,6 +94,8 @@ students (honours, masters or PhD) or work experience groups.
   * Can use the -slf option to set a specific filename (eg
     higher.txt/lower.txt)
 
+* Formalise the file formats: use CSV with headings, JSON/YAML/XML etc
+
 ## To read
 
 * https://system76.com/weekend-project/arsandbox
