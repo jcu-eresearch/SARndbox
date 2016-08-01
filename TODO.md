@@ -20,6 +20,7 @@ students (honours, masters or PhD) or work experience groups.
 
   * Coast and continental shelf colouring (rainforest, island, shelf), see
     <https://en.wikipedia.org/wiki/Continental_shelf>
+  * Segments of DEM colouring: eg https://www.arcgis.com/home/item.html?id=feb3c625dc094112bb5281c17679c769
 
 * Improved settings for hydrology modelling. Try water modelling with `-wts
   200 150` for initial testing or unless the PC running the Augmented Reality
