@@ -11,7 +11,7 @@ students (honours, masters or PhD) or work experience groups.
 * Ecological changes (animal distribution)
 * Urban planning and development (buildings, traffic movement, foot traffic
   dependent on features, etc)
-* Disaster ma
+* Disaster management and simulations
 
 ### Software
 
