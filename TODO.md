@@ -11,7 +11,8 @@ students (honours, masters or PhD) or work experience groups.
 * Ecological changes (animal distribution)
 * Urban planning and development (buildings, traffic movement, foot traffic
   dependent on features, etc)
-* Disaster ma
+* Disaster management and simulations
+* Interactive games design
 
 ### Software
 
@@ -19,6 +20,7 @@ students (honours, masters or PhD) or work experience groups.
 
   * Coast and continental shelf colouring (rainforest, island, shelf), see
     <https://en.wikipedia.org/wiki/Continental_shelf>
+  * Segments of DEM colouring: eg https://www.arcgis.com/home/item.html?id=feb3c625dc094112bb5281c17679c769
 
 * Improved settings for hydrology modelling. Try water modelling with `-wts
   200 150` for initial testing or unless the PC running the Augmented Reality
@@ -72,14 +74,16 @@ students (honours, masters or PhD) or work experience groups.
 
 ### Hardware
 
+* Investigate kinetic sand (expensive)
+* Kinect v2 coming soon! http://lakeviz.org/forums/topic/what-will-change-in-2-0/
 * Select a projector that's suitable for use in high-light situations
-* Test with Raspberry Pi 3 or similar sized cheaper computing
-* Determine minimum specs for graphics card to run the hydrology modelling
-  (tested with GTX 970 so far)
-* Investigate pico-sized projectors
-* 3D stereoscopic projection onto the sand surface
+  * Investigate pico-sized projectors
+  * 3D stereoscopic projection onto the sand surface
+* Set up new computer
+  * Test with Raspberry Pi 3 or similar sized cheaper computing
+  * Determine minimum specs for graphics card to run the hydrology modelling
+    (tested with GTX 970 so far)
 * Perspex (clear) sides for the sandbox
-* Kinetic sand (expensive)
 
 ## Code improvements
 
@@ -91,16 +95,7 @@ students (honours, masters or PhD) or work experience groups.
   * Can use the -slf option to set a specific filename (eg
     higher.txt/lower.txt)
 
-* Set up new computer (transfer hard drive from one to the other)
-
-* Shirts and Open Day
-
-  * IT T-shirt sizes and see Lachlan in mentor room
-  * Take sizes for eResearch shirts
-  * Get contact details about JCU open day
-
-* Prep the final presentation
-* Vaccuum and tidy
+* Formalise the file formats: use CSV with headings, JSON/YAML/XML etc
 
 ## To read
 
@@ -111,20 +106,3 @@ students (honours, masters or PhD) or work experience groups.
 * https://brmlab.cz/project/ar_sandbox
 * http://isandbox.co.uk/
 * http://en.sandystation.cz
-
-## Discussions
-
-* GitHub and code hosting (https://github.com/jcu-eresearch/SARndbox)
-* JCU Open Day
-* iNQ launch event
-* Startup Weekend 2016
-
-## Project management
-
-1. Finish future work issues, problems, cleanup
-
-  * Kinect v2 coming soon! http://lakeviz.org/forums/topic/what-will-change-in-2-0/
-
-2. Document instructions for future builders: list of tools!
-2. Prep talk for 2pm, speaking roles
-4. Final presentation!
