@@ -12,6 +12,10 @@
 * 3D stereoscopic projection onto the sand surface
 
 
+### Sensor options
+
+* Kinect 2 is coming soon: http://lakeviz.org/forums/topic/what-will-change-in-2-0/
+
 ### Compute options
 
 * Test with Raspberry Pi 3 or similar sized cheaper computing
@@ -51,6 +55,7 @@ The C++ interface is spectacularly awkward to use.  Go through major actions (se
 * Document raising/lowering the BoxLayout.txt height to change colour settings
   * Can use the -slf option to set a specific filename (eg
   higher.txt/lower.txt)
+* make the config file formats clearer: CSV with headings, JSON/YAML/XML, etc
 
 
 ### Better / automated calibration
@@ -89,6 +94,7 @@ Is there a way to use Kinect sensing to allow the user to interact with settings
 * other planets -- mars, jupiter...
 * full rainbow for maximum differentiation
 * grids, alternating stripes, etc
+* ArcGIS/NOAA have a colour scheme at: https://www.arcgis.com/home/item.html?id=feb3c625dc094112bb5281c17679c769
 
 
 ### Richer overlays
