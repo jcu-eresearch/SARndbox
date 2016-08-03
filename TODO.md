@@ -1,9 +1,9 @@
 # Todo
 
 * Print an acknowledgement plaque: Thank you for asking how you can acknowledge the project. We have [acknowledgement suggestions](https://arsandbox.ucdavis.edu/technical-resources/) on our website, which includes a template paragraph giving credit to the code development and acknowledgement of the federal grant used to fund the AR Sandbox development, as well as UC Davis KeckCAVES logos. We ask that you display a small plaque on or near the sandbox with the above acknowledgment. 
-* 
-Picture: [Water to Lava](https://www.nsf.gov/news/mmg/mmg_disp.jsp?med_id=75585&from=mmg)
+* Picture: [Water to Lava](https://www.nsf.gov/news/mmg/mmg_disp.jsp?med_id=75585&from=mmg)
 Instructions: [Water to Lava](http://lakeviz.org/forums/topic/water-to-lava/)
+* Copy these into the repo: <https://github.com/DarkAce65/SARndbox/tree/master/share/SARndbox-1.6/Shaders/Fluids>
 
 There are also some ideas in the AR Sandbox forum on how to create alternate mediums such as snow!  AR Sandbox Forum
 
